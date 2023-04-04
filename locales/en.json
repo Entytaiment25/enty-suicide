@@ -1,13 +1,10 @@
 {
-  "no_ammo_title": "You\"re Gun is empty",
+  "no_ammo_title": "\"You\\'re Gun is empty\"",
   "no_ammo_description": "You need some Ammo too...",
-
-  "no_weapon_title": "You don\"t have a Gun",
+  "no_weapon_title": "You don\\'t have a Gun",
   "no_weapon_description": "You will need a Weapon to shoot yourself obviously...",
-
   "already_dead_title": "You are already Dead.",
   "already_dead_description": "How should you kill yourself if you are already dead?...",
-
   "header_warning": "WARNING",
   "content_warning": "Are you sure that you wanna end yourself? \n Your Character will be deleted!"
 }

@@ -1,13 +1,10 @@
 {
   "no_ammo_title": "Deine Waffe ist Leer",
   "no_ammo_description": "Du brauchst auch schon Munition...",
-
   "no_weapon_title": "Du hast gar keine Waffe",
   "no_weapon_description": "Du brauchst eine geeignete Waffe um das zutun offensichtlich...",
-
   "already_dead_title": "Du bist Tot",
   "already_dead_description": "Wie willst du dich den umbringen wenn du schon Tot bist?...",
-
   "header_warning": "WARNUNG",
   "content_warning": "Bist du dir sicher das du dein Leben beenden willst?\nDein Charakter wird gelöscht!"
 }
